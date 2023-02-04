@@ -2,4 +2,9 @@
 
 <img src="/Screenshot from 2023-02-04 11-18-58.png" alt="screenshot" title="screenshot">
 
-Flow to automatically adjust the cerboGXs display off at sunset and on at sunrise
+This flow is written to control the display of a device using the Node-RED platform. It sets the display to turn on for 60 seconds at sunset and remain on full time at sunrise. If Node-RED is already installed locally on the device, the ssh module is not necessary.
+
+Requirements:
+
+node-red-contrib-sunevents
+node-red-contrib-ssh-v3
