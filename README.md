@@ -2,7 +2,7 @@
 
 <img src="/cerboGX-nodeRED-night-flow.png" alt="screenshot" title="screenshot">
 
-This flow is written to control the display a CerboGX using Node-RED. It sets the display to turn on for 60 seconds at sunset and remain on full time at sunrise. If Node-RED is already installed locally on the device, the ssh module is not necessary.
+This flow is written to control the display on a CerboGX using Node-RED. It sets the display to turn on for 60 seconds at sunset and remain on full time at sunrise. If Node-RED is already installed locally on the device, the ssh module is not necessary.
 
 Requirements:
 
