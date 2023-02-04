@@ -1,5 +1,5 @@
 # cerboGX-nodeRED-night-flow
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="/Screenshot from 2023-02-04 11-18-58.png" alt="screenshot" title="screenshot">
 
 Flow to automatically adjust the cerboGXs display off at sunset and on at sunrise
