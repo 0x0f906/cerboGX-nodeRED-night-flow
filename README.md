@@ -8,3 +8,4 @@ Requirements:
 
 node-red-contrib-sunevents
 node-red-contrib-ssh-v3
+signalk/node-red-embedded
